@@ -6,6 +6,12 @@
         "components": [
           { "/": "/drink*", "comment": "NFC sticker taps log a bottle" }
         ]
+      },
+      {
+        "appIDs": ["75LWN2L3VU.com.jdhasleton.tapprint"],
+        "components": [
+          { "/": "/printer*", "comment": "NFC sticker taps open the printer in Tap Print" }
+        ]
       }
     ]
   }
